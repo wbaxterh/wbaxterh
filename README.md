@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a freelance developer, I've been coding since 2011. I enjoy working on my own projects and learning new programming Skills!
+I'm a freelance developer, I've been coding since 2011. I enjoy working on my own projects and learning new programming skills!
 
 
 ## 🌐 Socials:
