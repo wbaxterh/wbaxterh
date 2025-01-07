@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a freelance developer, I've been coding since 2011. I enjoy working on projects that others might find useful, and learning new programming skills!
+Programmer, aspiring product manager
 
 
 ## 🌐 Socials:
