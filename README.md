@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programmer, aspiring product manager
+Developer, aspiring product manager
 
 
 ## 🌐 Socials:
