@@ -1,6 +1,5 @@
 # 💫 About Me:
-Developer, Product Manager
-
+I will leave this world better than I found it!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](([https://www.linkedin.com/in/wes-huber-a3a60919a/](https://www.linkedin.com/in/wes-huber-a3a60919a/))) 
