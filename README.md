@@ -1,45 +1,62 @@
-# Wes Huber
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Wes Huber: Software Engineer, Founder, Open-source contributor"/>
+</p>
 
-Software Engineer at RealDefense. Founder of The Trick Book and Helio IoT. Open-source contributor to Midnight Network and elizaOS.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+RealDefense;Founder+of+The+Trick+Book;Building+Helio+IoT;Contributing+to+Midnight+Network+%26+elizaOS;Skateboarder.+Snowboarder.+Robot+enthusiast.&font=Fira+Code&center=true&width=560&height=45&color=7AA2F7&vCenter=true&pause=1000&size=20" alt="typing intro"/></a>
+</p>
 
-I write the PRD and the code that implements it. Long Beach, CA.
+<p align="center">
+  <a href="https://www.linkedin.com/in/wes-huber-a3a60919a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://weshuber.com"><img src="https://img.shields.io/badge/weshuber.com-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7" alt="Website"/></a>
+  <a href="https://github.com/wbaxterh?tab=followers"><img src="https://img.shields.io/github/followers/wbaxterh?style=for-the-badge&logo=github&label=Follow&color=7aa2f7&labelColor=1a1b26" alt="Followers"/></a>
+  <a href="https://thetrickbook.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.thetrickbook.com%2Fapi%2Fstats&query=%24.users&label=Trick%20Book%20riders&style=for-the-badge&color=f7768e&labelColor=1a1b26" alt="Trick Book riders, live"/></a>
+</p>
 
-[weshuber.com](https://weshuber.com) · [LinkedIn](https://www.linkedin.com/in/wes-huber-a3a60919a/)
+## 🛹 About me
 
-## Work
+```ts
+const wes = {
+  role: "Software Engineer @ RealDefense",
+  founder: ["The Trick Book", "Helio IoT"],
+  openSource: ["midnightntwrk", "elizaOS"],
+  nowLearning: "Ruby",
+  offKeyboard: ["skateboarding", "snowboarding", "robots"],
+  rule: "every project should teach something portable",
+};
+```
 
-**Software Engineer, [RealDefense](https://www.realdefense.com)**
-RealDefense builds consumer software and security products, including [iolo](https://www.iolo.com) System Mechanic. I work on the ecommerce checkout and the AI customer-support platform behind those brands. I came in as a contractor to build out the company's AI infrastructure and joined full time.
+## 🛠️ Skills
 
-## Founder, product manager, builder
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,nodejs,express,python,ruby,php,aws,azure,postgres,mongodb,mysql,docker,tailwind,figma,raspberrypi,linux,git,bash&perline=12" alt="Skills"/></a>
+</p>
 
-**[The Trick Book](https://thetrickbook.com)** · [docs](https://docs.thetrickbook.com)
-Skaters and snowboarders have no good place to track what they have learned or where to ride, so progress lives in a camera roll. The Trick Book is a trick log, spot map, and progression network for riders. Live on iOS with 300+ riders and 6,000+ mapped spots. I build the backend, the mobile app, and the website.
+## 🚀 What I'm working on
 
-**[Helio IoT](https://helioiot.com)**
-Small manufacturers run on tribal knowledge and manual tracking, so downtime and quality drift show up after the scrapped lot, not before. HView is machine monitoring that puts live machine data and fault diagnosis in front of CNC, molding, and stamping shops. Early stage.
+| | Project | What it does | Role |
+|:-:|---|---|---|
+| 💼 | [RealDefense](https://www.realdefense.com) | Ecommerce checkout and the AI customer-support platform behind [iolo](https://www.iolo.com) and sibling brands | Software Engineer |
+| 🛹 | [The Trick Book](https://thetrickbook.com) | Trick log, spot map, and progression network for skaters and snowboarders. Live on iOS. | Founder · PM · Builder |
+| 🏭 | [Helio IoT](https://helioiot.com) | Machine monitoring so small manufacturers catch downtime and quality drift before the scrapped lot | Founder · PM · Builder |
+| 🌙 | [Midnight Network](https://github.com/midnightntwrk) | ZK data-protection chain: [merged docs PRs](https://github.com/midnightntwrk/midnight-docs/pulls?q=is%3Apr+author%3Awbaxterh+is%3Amerged), [open node PRs](https://github.com/midnightntwrk/midnight-node/pulls?q=is%3Apr+author%3Awbaxterh+is%3Aopen), and [vouched](https://github.com/wbaxterh/vouched), a verified-purchase review dApp | Contributor · Aliit Builder |
+| 🤖 | [elizaOS](https://github.com/elizaOS/eliza) | AI agent framework: [six merged core fixes](https://github.com/elizaOS/eliza/pulls?q=is%3Apr+author%3Awbaxterh+is%3Amerged), reviewer on [slop.cash](https://slop.cash) | Contributor |
 
-## Open source
+## 📊 Stats
 
-**[Midnight Network](https://midnight.network)** ([midnightntwrk](https://github.com/midnightntwrk)), the zero-knowledge data-protection chain in the Cardano ecosystem
-Builder in the Aliit Builders program. Two [merged docs PRs](https://github.com/midnightntwrk/midnight-docs/pulls?q=is%3Apr+author%3Awbaxterh+is%3Amerged) on DUST token economics, sourced from the ledger constants rather than the whitepaper, and seven [open node PRs](https://github.com/midnightntwrk/midnight-node/pulls?q=is%3Apr+author%3Awbaxterh+is%3Aopen) on toolkit reliability and e2e test hygiene. Built [vouched](https://github.com/wbaxterh/vouched), a verified-purchase review dApp in Compact: prove you bought it, review it anonymously.
+<p align="center">
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=wbaxterh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=f7768e&card_width=450" alt="GitHub stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=wbaxterh&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&card_width=450" alt="GitHub streak"/>
+</p>
 
-**[elizaOS](https://github.com/elizaOS/eliza)**, the open-source AI agent framework
-[Six merged fixes](https://github.com/elizaOS/eliza/pulls?q=is%3Apr+author%3Awbaxterh+is%3Amerged) in the core repo: bounded dev-server shutdown, Discord cold-start recovery, and first-run cloud sign-in. Contributor and reviewer on [slop.cash](https://slop.cash), the elizaOS contribution hub ([merged PRs](https://github.com/SlopDotCash/slopdotcash/pulls?q=is%3Apr+author%3Awbaxterh+is%3Amerged)).
+## 📌 Featured
 
-**[PokeDocs](https://github.com/wbaxterh/pokedocs)**
-Agent-native docs framework on Docusaurus that I maintain. It runs the docs for The Trick Book and Helio.
+<p align="center">
+  <a href="https://github.com/wbaxterh/vouched"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wbaxterh&repo=vouched&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=f7768e" alt="vouched"/></a>
+  <a href="https://github.com/wbaxterh/pokedocs"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wbaxterh&repo=pokedocs&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=f7768e" alt="pokedocs"/></a>
+  <a href="https://github.com/wbaxterh/thps-n64-nyjah"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wbaxterh&repo=thps-n64-nyjah&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=f7768e" alt="thps-n64-nyjah"/></a>
+</p>
 
-## How I work
-
-- Small PRs with tests, a reproduction, and the evidence in the description.
-- On other people's projects: claim the issue first, follow their conventions, then open the PR.
-- Every project should teach something portable.
-
-## Stack
-
-TypeScript, Node, React, React Native, Next.js · Python · Ruby · AWS · Postgres, MongoDB · Docusaurus
-
-I will leave this world better than I found it.
+<p align="center"><sub>I will leave this world better than I found it.</sub></p>
 
 <!-- gitarmy-wallet:v1 {"chain":"solana","address":"G4fZSp9tf6j1dFhrc6bVkLTszi6CuQPs5xCCFjXtLmaW"} -->
