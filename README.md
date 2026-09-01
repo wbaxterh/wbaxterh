@@ -1,37 +1,45 @@
-# 💫 About Me:
-I will leave this world better than I found it!
+# Wes Huber
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](([https://www.linkedin.com/in/wes-huber-a3a60919a/](https://www.linkedin.com/in/wes-huber-a3a60919a/))) 
+Software Engineer at RealDefense. Founder of The Trick Book and Helio IoT. Open-source contributor to Midnight Network and elizaOS.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=wbaxterh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=wbaxterh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wbaxterh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I write the PRD and the code that implements it. Long Beach, CA.
 
----
-[![](https://visitcount.itsvg.in/api?id=wbaxterh&icon=0&color=0)](https://visitcount.itsvg.in)
+[weshuber.com](https://weshuber.com) · [LinkedIn](https://www.linkedin.com/in/wes-huber-a3a60919a/)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/wesleyhuber) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/weshuber?country.x=US&locale.x=en_US) 
+## Work
 
-  
+**Software Engineer, [RealDefense](https://www.realdefense.com)**
+RealDefense builds consumer software and security products, including [iolo](https://www.iolo.com) System Mechanic. I work on the ecommerce checkout and the AI customer-support platform behind those brands. I came in as a contractor to build out the company's AI infrastructure and joined full time.
 
-<!--
-**wbaxterh/wbaxterh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Founder, product manager, builder
 
-Here are some ideas to get you started:
+**[The Trick Book](https://thetrickbook.com)** · [docs](https://docs.thetrickbook.com)
+Skaters and snowboarders have no good place to track what they have learned or where to ride, so progress lives in a camera roll. The Trick Book is a trick log, spot map, and progression network for riders. Live on iOS with 300+ riders and 6,000+ mapped spots. I build the backend, the mobile app, and the website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Helio IoT](https://helioiot.com)**
+Small manufacturers run on tribal knowledge and manual tracking, so downtime and quality drift show up after the scrapped lot, not before. HView is machine monitoring that puts live machine data and fault diagnosis in front of CNC, molding, and stamping shops. Early stage.
+
+## Open source
+
+**[Midnight Network](https://midnight.network)** ([midnightntwrk](https://github.com/midnightntwrk)), the zero-knowledge data-protection chain in the Cardano ecosystem
+Builder in the Aliit Builders program. Two [merged docs PRs](https://github.com/midnightntwrk/midnight-docs/pulls?q=is%3Apr+author%3Awbaxterh+is%3Amerged) on DUST token economics, sourced from the ledger constants rather than the whitepaper, and seven [open node PRs](https://github.com/midnightntwrk/midnight-node/pulls?q=is%3Apr+author%3Awbaxterh+is%3Aopen) on toolkit reliability and e2e test hygiene. Built [vouched](https://github.com/wbaxterh/vouched), a verified-purchase review dApp in Compact: prove you bought it, review it anonymously.
+
+**[elizaOS](https://github.com/elizaOS/eliza)**, the open-source AI agent framework
+[Six merged fixes](https://github.com/elizaOS/eliza/pulls?q=is%3Apr+author%3Awbaxterh+is%3Amerged) in the core repo: bounded dev-server shutdown, Discord cold-start recovery, and first-run cloud sign-in. Contributor and reviewer on [slop.cash](https://slop.cash), the elizaOS contribution hub ([merged PRs](https://github.com/SlopDotCash/slopdotcash/pulls?q=is%3Apr+author%3Awbaxterh+is%3Amerged)).
+
+**[PokeDocs](https://github.com/wbaxterh/pokedocs)**
+Agent-native docs framework on Docusaurus that I maintain. It runs the docs for The Trick Book and Helio.
+
+## How I work
+
+- Small PRs with tests, a reproduction, and the evidence in the description.
+- On other people's projects: claim the issue first, follow their conventions, then open the PR.
+- Every project should teach something portable.
+
+## Stack
+
+TypeScript, Node, React, React Native, Next.js · Python · Ruby · AWS · Postgres, MongoDB · Docusaurus
+
+I will leave this world better than I found it.
 
 <!-- gitarmy-wallet:v1 {"chain":"solana","address":"G4fZSp9tf6j1dFhrc6bVkLTszi6CuQPs5xCCFjXtLmaW"} -->
